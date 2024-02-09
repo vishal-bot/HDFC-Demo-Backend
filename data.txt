@@ -1,0 +1,125 @@
+  response.send(
+    [
+      {
+        "project_id": 1001,
+        "project_name": "Project 1",
+        "description": "Description of Project 1",
+        "start_date": "2022-01-01",
+        "employee_name": "John Doe",
+        "designation": "Software Engineer"
+      },
+      {
+        "project_id": 1002,
+        "project_name": "Project 2",
+        "description": "Description of Project 2",
+        "start_date": "2022-02-01",
+        "employee_name": "Jane Doe",
+        "designation": "Product Manager"
+      },
+      {
+        "project_id": 1003,
+        "project_name": "Project 3",
+        "description": "Description of Project 3",
+        "start_date": "2022-03-01",
+        "employee_name": "Bob Smith",
+        "designation": "Data Analyst"
+      },
+      {
+        "project_id": 1004,
+        "project_name": "Project 4",
+        "description": "Description of Project 4",
+        "start_date": "2022-04-01",
+        "employee_name": "Alice Smith",
+        "designation": "Software Developer"
+      },
+      {
+        "project_id": 1005,
+        "project_name": "Project 5",
+        "description": "Description of Project 5",
+        "start_date": "2022-05-01",
+        "employee_name": "Bob Johnson",
+        "designation": "Product Designer"
+      },
+      {
+        "project_id": 1006,
+        "project_name": "Project 6",
+        "description": "Description of Project 6",
+        "start_date": "2022-06-01",
+        "employee_name": "Charlie Brown",
+        "designation": "Data Scientist"
+      },
+      {
+        "project_id": 1007,
+        "project_name": "Project 7",
+        "description": "Description of Project 7",
+        "start_date": "2022-07-01",
+        "employee_name": "David Lee",
+        "designation": "Software Engineer"
+      },
+      {
+        "project_id": 1008,
+        "project_name": "Project 8",
+        "description": "Description of Project 8",
+        "start_date": "2022-08-01",
+        "employee_name": "Emily Davis",
+        "designation": "Product Manager"
+      },
+      {
+        "project_id": 1009,
+        "project_name": "Project 9",
+        "description": "Description of Project 9",
+        "start_date": "2022-09-01",
+        "employee_name": "Frank Wilson",
+        "designation": "Data Analyst"
+      },
+      {
+        "project_id": 1010,
+        "project_name": "Project 10",
+        "description": "Description of Project 10",
+        "start_date": "2022-10-01",
+        "employee_name": "Grace Taylor",
+        "designation": "Software Developer"
+      },
+      {
+        "project_id": 1011,
+        "project_name": "Project 11",
+        "description": "Description of Project 11",
+        "start_date": "2022-11-01",
+        "employee_name": "Henry Martin",
+        "designation": "Product Designer"
+      },
+      {
+        "project_id": 1012,
+        "project_name": "Project 12",
+        "description": "Description of Project 12",
+        "start_date": "2022-12-01",
+        "employee_name": "Isabella Brown",
+        "designation": "Data Scientist"
+      },
+      {
+        "project_id": 1013,
+        "project_name": "Project 13",
+        "description": "Description of Project 13",
+        "start_date": "2023-01-01",
+        "employee_name": "Jack Anderson",
+        "designation": "Software Engineer"
+      },
+      {
+        "project_id": 1014,
+        "project_name": "Project 14",
+        "description": "Description of Project 14",
+        "start_date": "2023-02-01",
+        "employee_name": "Katherine Lee",
+        "designation": "Product Manager"
+      },
+      {
+        "project_id": 1015,
+        "project_name": "Project 15",
+        "description": "Description of Project 15",
+        "start_date": "2023-03-01",
+        "employee_name": "Liam Wilson",
+        "designation": "Data Analyst"
+      }
+    ]
+    
+)

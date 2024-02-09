@@ -59,9 +59,9 @@ app.post('/projects', async (req, res) => {
   }
 });
 
-app.put('/projects/:id', async (req, res) => {
+app.put('/projects/:project_id', async (req, res) => {
   try {
-    const { id } = req.params;
+    const { project_id } = req.params;
     const { project_name, description, start_date, employee_name, designation, upload_image } = req.body;
     const client = await pool.connect();
     const result = await client.query(
